@@ -21,25 +21,23 @@ h1, h2, h3 {
 header{
     background: #ffffff;
     color: rgb(255, 0, 0);
-    padding-top: 20px;
+    padding-top: 0px;
     padding-bottom: 40px;
     border-bottom: rgb(255, 0, 0)
     5px solid;
-    height: 200px;
+    height: 100px;
     margin: 0px;
     width: 100%;
-}
-.comp {
-    width: 45%;
-}
-header img {
-    z-index: 0;
 }
 .topnav {
     background-color: #333;
     overflow: hidden;
     width: 100%;
 }
+#logo {
+    width: 120px;
+    height: 120px;
+    }
 .logo {
     width: 100px;
     height: 100px;
